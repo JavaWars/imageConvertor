@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\standart\documents\projects\c++\imager\imager\imager\source.cpp(32): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  imager.vcxproj -> C:\Standart\Documents\Projects\C++\Imager\imager\x64\Debug\imager.exe
+  imager.vcxproj -> C:\Standart\Documents\Projects\C++\Imager\imager\x64\Debug\imager.pdb (Partial PDB)
